@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "oitorsst",
+    "password": "sCAaR77XqYNthN1M8QPzR1o-z40R5G2m",
+    "database": "oitorsst",
+    "host": "baasu.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
